@@ -1,11 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="##### HU - HUNGARIAN #####" tvg-logo="http://212.8.253.112/logo/MAGFLAGS/HANGARIA.png" group-title="EU | HUNGARIA",##### HU - HUNGARIAN #####
-http://tvservice.pro:80/heder/qIZmi3IIQBCZLxH/70203
-#EXTINF:-1 tvg-id="" tvg-name="##### HU - GENERAL #####" tvg-logo="" group-title="EU | HUNGARIA",##### HU - GENERAL #####
-http://tvservice.pro:80/heder/qIZmi3IIQBCZLxH/45247
-#EXTINF:-1 tvg-id="" tvg-name="HU - M PLUS" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/MPLUS.png" group-title="EU | HUNGARIA",HU - M PLUS
-http://tvservice.pro:80/heder/qIZmi3IIQBCZLxH/45246
-#EXTINF:-1 tvg-id="" tvg-name="HU - M4 HD" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/M4HD.png" group-title="EU | HUNGARIA",HU - M4 HD
-http://tvservice.pro:80/heder/qIZmi3IIQBCZLxH/45245
-#EXTINF:-1 tvg-id="" tvg-name="HU - MEGAMAX" tvg-logo="http://212.8.253.112/logo/HUNGARIAN/MEGAMAX.png" group-title="EU | HUNGARIA",HU - MEGAMAX
-http://tvservice.pro:80/heder/qIZmi3IIQBCZLxH/45244
+#EXTINF:-1,▬ Hungary [HU] ▬
+http://tv.champion.iptv.uno:80/2rCzFslkx3924/X8tEuAcVYY924/16530
+#EXTINF:-1,Viasat 3 HU
+http://tv.champion.iptv.uno:80/2rCzFslkx3924/X8tEuAcVYY924/13330
+#EXTINF:-1,Viasat History HU
+http://tv.champion.iptv.uno:80/2rCzFslkx3924/X8tEuAcVYY924/13331
+#EXTINF:-1,TV2 HU
+http://tv.champion.iptv.uno:80/2rCzFslkx3924/X8tEuAcVYY924/13334
+#EXTINF:-1,TV Paprika HU
